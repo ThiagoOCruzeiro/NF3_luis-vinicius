@@ -1,6 +1,14 @@
 # Relatório NF3
-Equipe e contribuições:
+Equipe e contribuições: Thiago Cruzeiro e Daniel
 Data, versão MySQL e commit:
+
+
+## Respostas
+
+
+
+**Tarefa:** desenhe o esquema lógico, com PK/FK, cardinalidades e participação. Proponha uma estratégia transacional para validar totalidade/disjunção; discuta concorrência e como impedir que duas sessões criem subtipos incompatíveis. FKs preservam existência do supertipo, não a regra “um ou outro”. Explique também por que pedido CONCLUIDO com ao menos um item exige validação além da FK ITEM→PEDIDO.
+
 
 ## Modelagem e normalização
 Cardinalidades, chaves, dependências, formas normais e limitações das FKs.
